@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - sdcard_path_manager (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - sdcard_path_manager (from `.symlinks/plugins/sdcard_path_manager/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  sdcard_path_manager:
+    :path: ".symlinks/plugins/sdcard_path_manager/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  sdcard_path_manager: ee12fb9cb1693efc52b21bd2cc0643521b09a58c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
